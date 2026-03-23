@@ -16,7 +16,10 @@
 
 | **JD-자소서 유사도 분석** | **Top-K 유사 문장 (XAI)** | **LLM 정성 평가 결과** |
 | :---: | :---: | :---: |
-| ![similarity](https://via.placeholder.com/300x300?text=Similarity+Score) | ![topk](https://via.placeholder.com/300x300?text=Top-K+Sentences) | ![llm](https://via.placeholder.com/300x300?text=LLM+Feedback) |
+|<img width="1470" height="956" alt="스크린샷 2026-03-23 오후 10 02 24" src="https://github.com/user-attachments/assets/dbfdac45-742d-4f63-8f87-4135c2a4cb72" />
+  |<img width="1470" height="956" alt="스크린샷 2026-03-23 오후 10 02 51" src="https://github.com/user-attachments/assets/75ab1f7a-07eb-4935-82a8-e44e8181f580" />
+ | <img width="1470" height="956" alt="스크린샷 2026-03-23 오후 10 02 58" src="https://github.com/user-attachments/assets/02b5513b-0821-4001-b7dc-4aa8cd982f74" />
+ |
 | 코사인 유사도 기반 정량 점수 | JD와 가장 유사한 문장 추출 | 논리성, 구체성 기반 정성 평가 |
 
 ---
