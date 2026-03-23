@@ -1,0 +1,61 @@
+.env
+# --- Python & Virtual Environment ---
+venv/
+.venv/
+env/
+bin/
+lib/
+share/
+include/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# --- Environment Variables (Security!) ---
+.env
+.flaskenv
+
+# --- Local Model Cache (Crucial for AI Projects) ---
+# 로컬에 다운로드된 Transformer 모델 파일들 제외
+.cache/
+models/
+*-model/
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# --- Streamlit ---
+.streamlit/config.toml
+.streamlit/static/
+
+# --- Python Compiled Files ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- OS Specific Files ---
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- Data & Logs ---
+data/*.pdf
+data/*.txt
+*.log
