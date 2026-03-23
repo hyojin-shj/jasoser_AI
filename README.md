@@ -104,7 +104,7 @@
 ---
 
 ## 📂 프로젝트 구조 (Directory Structure)
-'''
+₩₩₩
 ai-hr-evaluator/
 ├── app.py # Streamlit 메인 앱
 ├── models/ # 모델 관련 코드
@@ -113,7 +113,7 @@ ai-hr-evaluator/
 ├── data/ # 샘플 데이터
 ├── requirements.txt # 의존성 패키지
 └── README.md
-'''
+₩₩₩
 
 ---
 
@@ -165,6 +165,3 @@ ai-hr-evaluator/
 
 ---
 
-## 💡 한 줄 요약 (Resume용)
-
-> SBERT 기반 시맨틱 유사도 분석과 LLM 정성 평가를 결합하고, Top-K 문장 매칭을 통해 설명 가능한(XAI) 채용 평가 시스템 구현
