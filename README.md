@@ -104,7 +104,7 @@
 ---
 
 ## 📂 프로젝트 구조 (Directory Structure)
-₩₩₩
+```
 ai-hr-evaluator/
 ├── app.py # Streamlit 메인 앱
 ├── models/ # 모델 관련 코드
@@ -113,8 +113,7 @@ ai-hr-evaluator/
 ├── data/ # 샘플 데이터
 ├── requirements.txt # 의존성 패키지
 └── README.md
-₩₩₩
-
+```
 ---
 
 ## 🚀 트러블 슈팅 (Troubleshooting)
